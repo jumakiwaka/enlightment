@@ -1,0 +1,1 @@
+# Blinking letters css animation
